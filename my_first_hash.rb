@@ -2,7 +2,6 @@ def my_hash
   your_hash = {"area_code" => 314}
 end
 
-
 def shipping_manifest 
   the_manifest = {
     "whale bone corsets" => 5,
